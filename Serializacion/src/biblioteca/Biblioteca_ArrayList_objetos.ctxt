@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=lista\ fichero
+comment1.target=void\ salvarCatalogo(java.util.ArrayList,\ java.lang.String)
+comment2.params=fichero
+comment2.target=java.util.ArrayList\ cargarCatalogo(java.lang.String)
+comment3.params=lista
+comment3.target=void\ verCatalogo(java.util.ArrayList)
+comment4.params=titulo\ lista
+comment4.target=Libro\ buscarId(java.lang.String,\ java.util.ArrayList)
+comment5.params=titulo\ lprestados\ ldisponibles
+comment5.target=int\ prestarLibro(java.lang.String,\ java.util.ArrayList,\ java.util.ArrayList)
+comment5.text=\n\ Devuelve\:\n\ 0\ si\ no\ existe\ el\ libro\ en\ niguna\ de\ la\ listas\n\ 1\ Si\ puede\ prestarlo,\ el\ libro\ pasa\ de\ ldisponibles\ a\ lprestados\n\ -1\ Si\ ya\ esta\ prestado.\n
+numComments=6

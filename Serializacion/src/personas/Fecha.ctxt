@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=nuevoDia\ nuevoMes\ nuevoA\u00F1o
+comment0.target=Fecha(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ imprimir()
+comment2.params=
+comment2.target=int\ getDia()
+comment3.params=
+comment3.target=int\ getMes()
+comment4.params=
+comment4.target=int\ getA\u00F1o()
+comment5.params=nuevoDia
+comment5.target=void\ setDia(int)
+comment6.params=nuevoMes
+comment6.target=void\ setMes(int)
+comment7.params=nuevoA\u00F1o
+comment7.target=void\ setA\u00F1o(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

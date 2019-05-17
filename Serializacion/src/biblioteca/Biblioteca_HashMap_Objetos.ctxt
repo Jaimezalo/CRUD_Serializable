@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=argv
+comment0.target=void\ main(java.lang.String[])
+comment1.params=mlibros\ fichero
+comment1.target=void\ salvarCatalogo(java.util.HashMap,\ java.lang.String)
+comment2.params=fichero
+comment2.target=java.util.HashMap\ cargarCatalogo(java.lang.String)
+comment3.params=mlibros
+comment3.target=void\ verCatalogo(java.util.HashMap)
+comment4.params=titulo\ mprestados\ mdisponibles
+comment4.target=int\ prestarLibro(java.lang.String,\ java.util.HashMap,\ java.util.HashMap)
+comment4.text=\n\ Devuelve\:\n\ 0\ si\ no\ existe\ el\ libro\ en\ niguna\ de\ la\ listas\n\ 1\ Si\ puede\ prestarlo,\ el\ libro\ pasa\ de\ ldisponibles\ a\ lprestados\n\ -1\ Si\ ya\ esta\ prestado.\n
+numComments=5
